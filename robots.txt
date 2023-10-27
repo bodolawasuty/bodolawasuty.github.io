@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodolawasuty.github.io/sitemap.xml
